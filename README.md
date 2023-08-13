@@ -1,2 +1,2 @@
 # Guanabara_Course_PY
-Exercises of course on Youtube
+Exercises of course of Python on Youtube
